@@ -2,6 +2,9 @@
 ## Devlogs
 ### W1
 Write your W1 activity Devlog here.
+The camera no longers follows the cat and stays in the place where the camera was put, it does this because it is no longer has the cat game object has a parent which prevents it from following along.
+
+https://3dstars-glitch.itch.io/w1
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
