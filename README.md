@@ -6,7 +6,16 @@ The camera no longers follows the cat and stays in the place where the camera wa
 https://3dstars-glitch.itch.io/w1
 
 ### W2
-Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
+
+Why are the r, g, and b variables floats instead of ints, bools, or strings?
+Why is the _bounce variable an int instead of a float, bool, or string?
+The error you got after Step 4 of Part 2 told you something useful about why that line of code was broken- what was it?
+R,G,B are floats because in the r,g,b setting where it is a value between 1 and 0 which means they have to be able to have decimals which no other variable types can be, strings are not usable cause we used operators which require a math variable type. Bounce is a int because there is no half bounce that can be counted which does not need a decimal nor a true/false statement. I did not run into the error during step 4 part 2
+### W3
+Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.'
+
+### W4
+Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.'
 
 ## Open-Source Assets
 ### W1
