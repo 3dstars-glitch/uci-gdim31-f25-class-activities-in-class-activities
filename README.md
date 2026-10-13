@@ -28,6 +28,7 @@ Table #11
 
 4.Classes are templates with the components as created items with the methods and member variables are the tweaks between each item.
 
+5.A overflow occurs which sets all values to zero which makes it pure white.
 
 ### W4
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.'
