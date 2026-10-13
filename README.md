@@ -7,17 +7,25 @@ https://3dstars-glitch.itch.io/w1
 
 ### W2
 R,G,B are floats because in the r,g,b setting where it is a value between 1 and 0 which means they have to be able to have decimals which no other variable types can be, 
+
 strings are not usable cause we used operators which require a math variable type. 
+
 Bounce is a int because there is no half bounce that can be counted which does not need a decimal nor a true/false statement. 
+
 I did not run into the error during step 4 part 2
 
 
 ### W3
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.'
+
 Table #11  
+
 1.public string GetResponse(float friendshiplv,bool knowsSecret)
+
 2.public void LightLv(float sanityLv)
+
 3. public bool BeatHit(float timeHit)
+
 4.Classes are templates with the components as created items with the methods and member variables are the tweaks between each item.
 
 
