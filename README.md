@@ -16,7 +16,7 @@ I did not run into the error during step 4 part 2
 
 
 ### W3
-Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.'
+
 
 Table #11  
 
@@ -31,7 +31,15 @@ Table #11
 5.A overflow occurs which sets all values to zero which makes it pure white.
 
 ### W4
-Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.'
+
+Table #11
+
+1.Cat and Ball need a rigid body but only the goal should have a collider trigger
+
+2. The Game didn't work properly on the first time due to missing the constraints and the cat started flipping
+
+
+
 
 
 ## Open-Source Assets
