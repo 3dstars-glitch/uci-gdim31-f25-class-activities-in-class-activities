@@ -1,4 +1,4 @@
-# in-class-activities
++-# in-class-activities
 ## Devlogs
 ### W1
 The camera no longers follows the cat and stays in the place where the camera was put, it does this because it is no longer has the cat game object has a parent which prevents it from following along.
@@ -43,11 +43,11 @@ Table #11
 
 Table #11
 
-1.What member variable(s) does this class need? 
+1.What member variable(s) does this class need? It needs movespeed, turnspeed, animator.
 
-2. What method(s) does this class need? Should it be something that Unity provides (like Start(), Update(), or a collision method), or one you write?
+2. What method(s) does this class need? Should it be something that Unity provides (like Start(), Update(), or a collision method), or one you write? It needs a Update, Start and a Collison Method.
 
-3.What should the method(s) do?
+3.What should the method(s) do? The Update method should move it towards the goal with accurate results, and the collision method should detect whenever it touches what the game requires to end.
 
 ### W7
 
