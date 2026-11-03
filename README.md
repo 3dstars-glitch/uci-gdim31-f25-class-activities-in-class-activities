@@ -39,7 +39,20 @@ Table #11
 2. The Game didn't work properly on the first time due to missing the constraints and the cat started flipping
 
 
+### W6
 
+Table #11
+
+1.What member variable(s) does this class need? 
+
+2. What method(s) does this class need? Should it be something that Unity provides (like Start(), Update(), or a collision method), or one you write?
+
+3.What should the method(s) do?
+
+### W7
+
+
+### W8
 
 
 ## Open-Source Assets
