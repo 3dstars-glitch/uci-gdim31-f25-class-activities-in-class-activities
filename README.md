@@ -49,7 +49,14 @@ Table #11
 
 3.What should the method(s) do? The Update method should move it towards the goal with accurate results, and the collision method should detect whenever it touches what the game requires to end.
 
+
 ### W7
+
+Finished Doc:https://docs.google.com/document/d/1iBZihNlx92b16mfK2TXGr1CYtdDQOOh7vAeKN-P9YfU/edit?usp=sharing
+
+Assigned Category:Unity coding
+
+Plan For Bat Class: Variables: Speed(int),Player Position,boolen chase Methods (Start,Update,Custom Based Nearby Script to print out Cheeky)
 
 
 ### W8
